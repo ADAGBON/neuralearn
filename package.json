@@ -1,0 +1,20 @@
+{
+  "name": "neuralearn",
+  "version": "1.0.0",
+  "description": "NeuraLearn — an e-commerce store for AI courses, bootcamps and learning bundles (Node/Express).",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["ecommerce", "education", "ai", "express"],
+  "author": "Lawrence Adagbon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
