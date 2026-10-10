@@ -2,7 +2,7 @@
 
 NeuraLearn is an online store for AI courses, live cohorts and bootcamps, priced in naira for African learners. Visitors browse a catalogue, filter and search courses, add them to a cart, apply coupons and check out.
 
-**Live app:** _add your Render link here_
+**Live app:** https://neuralearn-b8ur.onrender.com
 
 ## Features
 
